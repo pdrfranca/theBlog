@@ -1,23 +1,23 @@
 # The Blog.
 
-Este repositório contém o código HTML, CSS e JavaScript para um blog fictício chamado "The Blog.". O site inclui uma página inicial com um cabeçalho, um menu de navegação, uma barra de pesquisa e um conteúdo principal com uma imagem e uma seção de texto. Além disso, há diversas seções menores que apresentam diferentes posts e suas respectivas informações.
+This repository contains the HTML, CSS, and JavaScript code of a fictitious blog called "The Blog." The site includes a homepage with a header, navigation menu, search bar, and a main content section with an image and a text section. There are also several smaller sections that feature different posts and their respective information.
 
-O código está organizado em três arquivos principais:
+The code is organized into three main files:
 
-- `index.html`: contém a estrutura HTML do site;
-- `style.css`: contém as regras de estilo CSS para o site;
-- `script.js`: contém o código JavaScript para aumentar e diminuir o tamanho da fonte na seção de texto.
+- `index.html`: contains the HTML structure of the site;
+- `style.css`: contains the CSS style rules for the site;
+- `script.js`: contains the JavaScript code to increase and decrease the font size in the text section.
 
-O site é responsivo e possui alguns recursos interativos, como a barra de pesquisa e os botões para aumentar e diminuir o tamanho da fonte.
+The site is responsive and includes some interactive features, such as the search bar and the buttons to increase and decrease the font size.
 
-## Acessibilidade
+## Accessibility
 
-A preocupação com a acessibilidade é uma prioridade para o The Blog. Por isso, foi incluída uma funcionalidade para aumentar ou diminuir o tamanho da fonte, a fim de tornar o conteúdo acessível a todos os usuários. O controle de tamanho de fonte pode ser encontrado na seção "Aumentar tamanho da fonte" na imagem destacada do conteúdo principal. Ao clicar nos botões " +" e " - ", o tamanho da fonte é alterado de acordo com a preferência do usuário.
+Accessibility is a priority for The Blog. As such, a functionality to increase or decrease the font size has been included to make the content accessible to all users. The font size control can be found in the "Increase Font Size" section in the featured image of the main content section. By clicking on the "+" and "-" buttons, the font size is changed according to the user's preference.
 
-## Como executar o site
+## How to Run the Site
 
-Para executar o site, basta abrir o arquivo `index.html` em um navegador web. Certifique-se de manter a estrutura de pastas do repositório para que os arquivos sejam referenciados corretamente.
+To run the site, simply open the `index.html` file in a web browser. Make sure to maintain the folder structure of the repository so that the files are referenced correctly.
 
-## Como contribuir
+## How to Contribute
 
-Sinta-se à vontade para contribuir com o projeto, reportando problemas, sugerindo melhorias ou adicionando novas funcionalidades. Para isso, basta fazer um fork do repositório, fazer as alterações necessárias e enviar um pull request. Será um prazer receber suas contribuições!
+Feel free to contribute to the project by reporting issues, suggesting improvements, or adding new features. To do so, simply fork the repository, make the necessary changes, and submit a pull request. We'd be happy to receive your contributions!
